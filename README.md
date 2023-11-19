@@ -55,4 +55,4 @@ MacParland et al.: GSE115469, Wesley et al.: E-MTAB-8210 (accessed 2023-MAY-28 t
 
 ## 6. Citation
 
-**Hess, A. et al. Single cell transcriptomic landscapes of human liver organoids stratify models of non-alcoholic fatty liver disease. 2022.07.19.500693 Preprint at https://doi.org/10.1101/2022.07.19.500693 (2023).**
+**Hess, A. et al. Single-cell transcriptomics stratifies organoid models of metabolic dysfunction-associated steatotic liver disease. The EMBO Journal (2023). https://doi.org/10.15252/embj.2023113898**
